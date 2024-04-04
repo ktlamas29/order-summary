@@ -29,7 +29,7 @@ body {
 .container {
     /* background: rgb(136, 174, 61); */
     width: 30%;
-    height: 570px;
+    height: 600px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -140,6 +140,10 @@ body {
     color: var(--PrimaryBright-blue);
 }
 
+.btn-card{
+    height: 140px;
+    /* background: red; */
+}
 .btn{
     width: 100%;
     padding: 15px;
@@ -156,7 +160,7 @@ body {
 
 .Proceed{
     background: var(--PrimaryBright-blue);
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     box-shadow: 4px 7px 10px var(--Neutral-Desaturated-blue);
     color: var(--PrimaryPale-blue);
 }
