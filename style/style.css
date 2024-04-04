@@ -143,9 +143,11 @@ body {
 .btn-card{
     height: 140px;
     /* background: red; */
+    text-align: center;
+    
 }
 .btn{
-    width: 100%;
+    width: 80%;
     padding: 15px;
     border: none;
     margin-bottom: 10px;
@@ -156,6 +158,7 @@ body {
     -o-border-radius: 8px;
     font-weight: 900;
     cursor: pointer;
+    
 }
 
 .Proceed{
